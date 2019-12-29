@@ -20,5 +20,5 @@ class Materia(db.Model):
     __tablename__="materias"
     id = db.Column(db.Integer,primary_key=True)
     Nombre = db.Column(db.String)
-app.run(host="192.168.1.10")
+app.run(host="localhost",port=80)
     
