@@ -4,7 +4,7 @@
 
 ### required install
 
-### pip install flask 
-### pip install flask-sqlalchemy
-### pip install psycopg2
+#### pip install flask 
+#### pip install flask-sqlalchemy
+#### pip install psycopg2
 
